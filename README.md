@@ -1,4 +1,8 @@
-# How to create a pull request with the GitHub CLI
+# How to create a pull request with the GitHub CLI 🤘
+
+![Screencast of creating a pull request with the GitHub CLI](./create-pr-recording.gif)
+
+## Steps
 
 0. Open up your terminal, because this is all about the command line!
 
